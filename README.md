@@ -2,10 +2,10 @@
 The Caesar Cipher is a classic encryption algorithm used to encode and decode text by shifting characters in the alphabet.This command-line application built in Python provides functionality for both encrypting and decrypting messages using the Caesar Cipher technique. Users can input a message and specify a shift value to perform the encryption or decryption.
  
 
-## Project Title
+### Project Title
 ## Caesar Cipher
 
-## Description
+# Description
 The Caesar Cipher is one of the simplest and most well-known encryption techniques, used for encoding and decoding text by shifting characters in the alphabet. Named after Julius Caesar, who used it to protect his messages, this encryption method involves substituting each letter in the plaintext with a letter found by moving a fixed number of places down or up the alphabet.
 
 This project is a command-line application written in Python that allows users to perform both encryption and decryption using the Caesar Cipher algorithm. The program accepts a message and a shift value as inputs from the user:
