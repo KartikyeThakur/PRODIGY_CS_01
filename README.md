@@ -67,7 +67,7 @@ Future enhancements for the Caesar Cipher program could include:
 To run the Caesar Cipher program locally, execute the following command:
 
 ```bash
-python caesar_cipher.py
+python main.py
 ```
 
 ## Running Tests
